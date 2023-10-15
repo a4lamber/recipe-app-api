@@ -1,0 +1,3 @@
+# <3.3保证major release的东西, 我们可以more reactively fix it
+Django>=3.2.4,<3.3
+djangorestframework>=3.12.4,<3.13
